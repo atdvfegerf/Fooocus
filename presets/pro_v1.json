@@ -45,7 +45,6 @@
         "lora_fernando_10k.safetensors": "ì https://huggingface.co/dome272/stable-cascade/resolve/main/lora_fernando_10k.safetensors"
     },
     "previous_default_models": [
-        "stage_c_bf16.safetensors",
         "juggernautXL_version7Rundiffusion.safetensors",
         "juggernautXL_v7Rundiffusion.safetensors",
         "juggernautXL_version6Rundiffusion.safetensors",
