@@ -1,0 +1,54 @@
+{
+    "default_model": "stage_b_bf16.safetensors",
+    "default_refiner": "None",
+    "default_refiner_switch": 0.5,
+    "default_loras": [
+        [
+            "lora_fernando_10k.safetensors",
+            0.1
+        ],
+        [
+            "None",
+            1.0
+        ],
+        [
+            "None",
+            1.0
+        ],
+        [
+            "None",
+            1.0
+        ],
+        [
+            "None",
+            1.0
+        ]
+    ],
+    "default_cfg_scale": 4.0,
+    "default_sample_sharpness": 2.0,
+    "default_sampler": "dpmpp_2m_sde_gpu",
+    "default_scheduler": "karras",
+    "default_performance": "Speed",
+    "default_prompt": "",
+    "default_prompt_negative": "",
+    "default_styles": [
+        "Fooocus V2",
+        "Fooocus Enhance",
+        "Fooocus Sharp"
+    ],
+    "default_aspect_ratio": "1152*896",
+    "checkpoint_downloads": {
+        "stage_b_bf16.safetensors": "https://huggingface.co/stabilityai/StableWurst/resolve/main/stage_b_bf16.safetensors"
+    },
+    "embeddings_downloads": {},
+    "lora_downloads": {
+        "lora_fernando_10k.safetensors": "ì https://huggingface.co/dome272/stable-cascade/resolve/main/lora_fernando_10k.safetensors"
+    },
+    "previous_default_models": [
+        "stage_c_bf16.safetensors",
+        "juggernautXL_version7Rundiffusion.safetensors",
+        "juggernautXL_v7Rundiffusion.safetensors",
+        "juggernautXL_version6Rundiffusion.safetensors",
+        "juggernautXL_v6Rundiffusion.safetensors"
+    ]
+}
