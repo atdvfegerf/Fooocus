@@ -1,3 +1,4 @@
+{
  "default_model": "sd_xl_base_1.0.safetensors",
     "default_refiner": "",
     "default_refiner_switch": 0.5,
