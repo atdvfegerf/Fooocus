@@ -26,5 +26,11 @@
         "name": "Fooocus Cinematic",
         "prompt": "cinematic still {prompt} . emotional, harmonious, vignette, highly detailed, high budget, bokeh, cinemascope, moody, epic, gorgeous, film grain, grainy",
         "negative_prompt": "anime, cartoon, graphic, text, painting, crayon, graphite, abstract, glitch, deformed, mutated, ugly, disfigured"
+    },
+     {
+        "name": "Fooocus disney",
+        "prompt": "disney cartoon {prompt} . emotional, cartoon, disney, detailed epic 4K, pixar version, 35mm photo, sharp focus, big budget, cinemascope, moody, epic, gorgeous, film grain, grainy",
+        "negative_prompt": "anime, real, photo, text, glitch, deformed, mutated, ugly, disfigured"
     }
+    
 ]
